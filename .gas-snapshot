@@ -1,0 +1,3 @@
+TestFund:testFundsFailWithoutENoughEth() (gas: 25150)
+TestFund:testMinimumUsd() (gas: 8877)
+TestFund:testOwnerIsMsgSender() (gas: 11229)
